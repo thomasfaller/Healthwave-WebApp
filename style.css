@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(234, 240, 241);
+    height: 100vh;
+}
+#logo {
+    display: block;
+    margin: 5em auto 4em auto;
+    max-width: 95vw;
+    max-height: 80px;
+}
+.btn {
+    font-size: 1.5em;
+    width: 10em;
+}

@@ -1,0 +1,24 @@
+{
+  "name": "healthwave-web-app",
+  "version": "1.0.0",
+  "description": "This a WebApp written in PHP linked to a mySQL table, built for Healthwave.",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasfaller/Healthwave-WebApp.git"
+  },
+  "keywords": [
+    "PHP",
+    "mySQL",
+    "Bootstrap"
+  ],
+  "author": "Thomas Faller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasfaller/Healthwave-WebApp/issues"
+  },
+  "homepage": "https://github.com/thomasfaller/Healthwave-WebApp#readme"
+}
